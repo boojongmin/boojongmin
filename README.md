@@ -13,14 +13,14 @@
 <table width="100%">
 <tr>
 <td align="center">
-<a href="https://brunnerliv.io">
+<a href="https://boojongmin.github.io">
 <strong>Visit my personal website </strong>
 <br />
 <br />
 
 <!-- Centering something has never been easy, has it? -->
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<img alt="Globe" height="80" src="https://github.com/boojongmin/boojongmin/blob/master/images/globe.gif?raw=true">
+<img alt="Globe" height="80" src="https://github.com/boojongmin/boojongmin/blob/main/images/globe.gif?raw=true">
 </a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
