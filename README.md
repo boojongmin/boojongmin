@@ -2,8 +2,6 @@
 <div align="center">
   <h2>Hello my git profile.</h2>
   <br/>
-  <h2><i>I like Java & Spring</i></h2>
-  <br />
 
 </div>
 
